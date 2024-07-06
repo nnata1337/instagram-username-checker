@@ -7,6 +7,6 @@
 Star the repository for more!
 
 DISCLAIMER!
-This is just a base of a simple username checker on instagram and pretty easy to work on, you can add your proxies threading and more to make it even faster, you will get a username check every 2.5 seconds due to the code not having proxies and to avoid ratelimits.
+This is just a basic username checker on Instagram and pretty easy to work on. You can add your proxies, threading, and more to make it even faster. You will get a username check every 2.5 seconds due to the code not having proxies and to avoid rate limits.
 
 Need help? discord,telegram in my github's bio
